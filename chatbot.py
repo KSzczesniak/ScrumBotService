@@ -2,8 +2,11 @@ from rasa_nlu.model import Metadata, Interpreter
 from rasa_nlu import config
 import json
 import random
+import os
 
-temp_dir = "C:/Users/hbvg38/Desktop/GitHub/MasterThesis/RASA/models/nlu/default/current"  # where model_directory points to the folder the model is persisted in
+cwd = os.getcwd()
+
+temp_dir = cwd + "/models/nlu/default/current"  # where model_directory points to the folder the model is persisted in
 interpreter = Interpreter.load(temp_dir)
 
 def print_json(o):   

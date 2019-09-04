@@ -1,5 +1,4 @@
 Flask==1.0.2
-nltk==3.4.4
 spacy==2.0.12
 flask-cors==3.0.7
 rasa_nlu==0.13.8
