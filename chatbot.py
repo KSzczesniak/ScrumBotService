@@ -3,9 +3,8 @@ from rasa_nlu import config
 import json
 import random
 import os
-import sys
-python = sys.executable
-{python} -m spacy link en_core_web_md en
+
+os.system('python -m spacy link en_core_web_md en')
 
 cwd = os.getcwd()
 
