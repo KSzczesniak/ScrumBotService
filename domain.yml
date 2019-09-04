@@ -1,0 +1,70 @@
+
+
+intents:
+- difference
+- goodbye
+- inform
+- greet
+- mood_deny
+- get_help
+- mood_affirm
+- create_task
+
+actions:
+- utter_greet
+- utter_intro
+- utter_inform_scrum
+- utter_inform_retro
+- utter_inform_planning
+- utter_inform_sm
+- utter_does_help
+- utter_show_more
+- utter_unclear
+- utter_get_more_info
+- utter_task_created
+- utter_next
+- utter_happy_to_help
+- utter_goodbye
+
+templates:
+  utter_greet:
+  - text: "Hey! How can I help you?"
+  
+  utter_intro:
+  - text: "I'm an intelligent chatbot with knowledge about the methodology of running and managing SCRUM projects. I can ask your questions related to SCRUM, help you add some items to a virtual dashboard or new members to the team."
+
+  utter_inform_scrum:
+  - text: "SCRUM is a framework that improve team efficiency"
+
+  utter_inform_sm:
+  - text: "Scrum Master is a part of scrum team"
+  
+  utter_inform_retro:
+  - text: "Retro is a meeting"
+  
+  utter_inform_planning:
+  - text: "Planning is an another scrum meeting"
+  
+  utter_unclear:
+  - text: "I'm not sure how to help you"
+  
+  utter_does_help:
+  - text: "Does that help you?"
+  
+  utter_show_more:
+  - text: "Well then I can present you a section where you should find information you are looking for"
+  
+  utter_next:
+  - text: "Do you have any other questions?"
+
+  utter_get_more_info:
+  - text: "What task type would you like to create?"
+  
+  utter_task_created:
+  - text: "Task successfully created!"
+
+  utter_happy_to_help:
+  - text: "Happy to help :)"
+  
+  utter_goodbye:
+  - text: "Bye"

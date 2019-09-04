@@ -1,0 +1,1091 @@
+{
+  "rasa_nlu_data": {
+    "common_examples": [
+      {
+        "intent": "greet",
+        "text": "hey"
+      },
+      {
+        "intent": "greet",
+        "text": "hi"
+      },
+      {
+        "intent": "greet",
+        "text": "hello"
+      },
+      {
+        "intent": "greet",
+        "text": "hey there"
+      },
+      {
+        "intent": "greet",
+        "text": "how's it going?"
+      },
+      {
+        "intent": "greet",
+        "text": "how are you doing?"
+      },
+      {
+        "intent": "greet",
+        "text": "what's up?"
+      },
+      {
+        "intent": "greet",
+        "text": "good morning"
+      },
+      {
+        "intent": "greet",
+        "text": "good afternoon"
+      },
+      {
+        "intent": "greet",
+        "text": "good evening"
+      },
+      {
+        "intent": "greet",
+        "text": "yo"
+      },
+      {
+        "intent": "greet",
+        "text": "goodmorning"
+      },
+      {
+        "intent": "greet",
+        "text": "goodevening"
+      },
+      {
+        "intent": "greet",
+        "text": "hi Jack"
+      },
+      {
+        "intent": "greet",
+        "text": "hello my friend"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "bye bye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "good by"
+      },
+      {
+        "intent": "goodbye",
+        "text": "see you later"
+      },
+      {
+        "intent": "goodbye",
+        "text": "see you soon"
+      },
+      {
+        "intent": "goodbye",
+        "text": "goodbye"
+      },
+      {
+        "intent": "goodbye",
+        "text": "take care!"
+      },
+      {
+        "intent": "goodbye",
+        "text": "good night"
+      },
+      {
+        "intent": "goodbye",
+        "text": "have a nice day"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "yes"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "correct"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "yup"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "yeah"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "indeed"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "of course"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "that sounds good"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "ok"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "okay"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "sure"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "great"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "very good"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "perfect"
+      },
+      {
+        "intent": "mood_affirm",
+        "text": "it does"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "no"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "not really"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "I don't think so"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "don't like that"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "never"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "no way"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "I don't believe so"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "I'm not sure"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "I guess not"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "I don't agree"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "No, that's all"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "No, I need more"
+      },
+      {
+        "intent": "mood_deny",
+        "text": "It's not enough for me"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 27,
+            "end": 32,
+            "value": "scrum",
+            "entity": "scrum_core"
+          }
+        ],
+        "text": "Do you know anything about scrum"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 49,
+            "end": 62,
+            "value": "product owner",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "Would you mind showing me some information about product owner"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 27,
+            "end": 38,
+            "value": "board",
+            "entity": "scrum_tools"
+          }
+        ],
+        "text": "Do you know anything about scrum board"
+      },
+      {
+        "intent": "get_help",
+        "text": "I am having a problem with something. Do you think you can help me?"
+      },
+      {
+        "intent": "get_help",
+        "text": "Could you give me a hand?"
+      },
+      {
+        "intent": "get_help",
+        "text": "Could you help me out?"
+      },
+      {
+        "intent": "get_help",
+        "text": "Could you help me?"
+      },
+      {
+        "intent": "get_help",
+        "text": "Would you mind helping me?"
+      },
+      {
+        "intent": "get_help",
+        "text": "I don't know what to do"
+      },
+      {
+        "intent": "get_help",
+        "text": "I'm lost"
+      },
+      {
+        "intent": "get_help",
+        "text": "What can you do for me?"
+      },
+      {
+        "intent": "get_help",
+        "text": "How can you help me?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 17,
+            "end": 19,
+            "value": "product owner",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "I am looking for PO information. I am wondering if you are able to tell me that."
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 5,
+            "end": 10,
+            "value": "scrum",
+            "entity": "scrum_core"
+          }
+        ],
+        "text": "What SCRUM is?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 8,
+            "end": 13,
+            "value": "scrum",
+            "entity": "scrum_core"
+          }
+        ],
+        "text": "What is Scrum?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 20,
+            "end": 32,
+            "value": "scrum master",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "Can you tell me who Scrum Master is ?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 16,
+            "end": 18,
+            "value": "scrum master",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "Do you know who SM is?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 32,
+            "end": 44,
+            "value": "scrum master",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "What are the resposibilities of scrum master ?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 8,
+            "end": 23,
+            "value": "planning",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "What is sprint planning?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 32,
+            "end": 45,
+            "value": "review",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "Can you tell me something about sprint review ?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 17,
+            "end": 37,
+            "value": "retrospective",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "Do you know what sprint retrospective is?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 7,
+            "end": 9,
+            "value": "scrum master",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "Who is SM ?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 18,
+            "end": 26,
+            "value": "planning",
+            "entity": "scrum_events"
+          },
+          {
+            "start": 31,
+            "end": 36,
+            "value": "retrospective",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "I don't know what planning and retro are"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 9,
+            "end": 21,
+            "value": "story points",
+            "entity": "scrum_artifacts"
+          }
+        ],
+        "text": "What are story points ?"
+      },
+      {
+        "intent": "get_help",
+        "text": "How to use units of measure?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 24,
+            "end": 30,
+            "value": "sprint",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "can you tell me what is sprint ?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 8,
+            "end": 20,
+            "value": "retrospective",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "What is sprint retro ?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 32,
+            "end": 52,
+            "value": "retrospective",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "can you tell me something about sprint retrospective"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 32,
+            "end": 38,
+            "value": "review",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "can you tell me something about review"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 8,
+            "end": 20,
+            "value": "daily",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "What is daily sprint?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "daily",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "Do you know what daily is?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 27,
+            "end": 33,
+            "value": "sprint",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "Do you know anything about sprint"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 5,
+            "end": 13,
+            "value": "planning",
+            "entity": "scrum_core"
+          }
+        ],
+        "text": "What planning is?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 9,
+            "end": 12,
+            "value": "dev",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "Who is a dev"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 32,
+            "end": 40,
+            "value": "dev",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "What are the resposibilities of dev team ?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 27,
+            "end": 43,
+            "value": "dev",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "Do you know anything about development team ?"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 16,
+            "end": 25,
+            "value": "dev",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "I dont know who developer is"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 32,
+            "end": 35,
+            "value": "dev",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "can you tell me something about dev"
+      },
+      {
+        "intent": "get_help",
+        "entities": [
+          {
+            "start": 7,
+            "end": 9,
+            "value": "product owner",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "who is po ?"
+      },
+      {
+        "intent": "create_task",
+        "entities": [
+          {
+            "start": 21,
+            "end": 25,
+            "value": "task",
+            "entity": "scrum_task"
+          }
+        ],
+        "text": "I'd like to create a task ."
+      },
+      {
+        "intent": "create_task",
+        "entities": [
+          {
+            "start": 17,
+            "end": 21,
+            "value": "epic",
+            "entity": "scrum_task"
+          }
+        ],
+        "text": "Could you add an epic for me?"
+      },
+      {
+        "intent": "create_task",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "story",
+            "entity": "scrum_task"
+          }
+        ],
+        "text": "I want to make a story"
+      },
+      {
+        "intent": "create_task",
+        "text": "Would you be able to add new item to the dashboard for me?"
+      },
+      {
+        "intent": "create_task",
+        "entities": [
+          {
+            "start": 19,
+            "end": 24,
+            "value": "story",
+            "entity": "scrum_task"
+          },
+          {
+            "start": 71,
+            "end": 83,
+            "value": "story points",
+            "entity": "scrum_artifacts"
+          }
+        ],
+        "text": "I want to create a story, assign John Stones, and add estimation of 13 story points"
+      },
+      {
+        "intent": "create_task",
+        "entities": [
+          {
+            "start": 19,
+            "end": 21,
+            "value": "story points",
+            "entity": "scrum_artifacts"
+          }
+        ],
+        "text": "My estimation is 5 sp"
+      },
+      {
+        "intent": "create_task",
+        "text": "Could you assign to this task?"
+      },
+      {
+        "intent": "create_task",
+        "text": "Assignee is Luke Shaw"
+      },
+      {
+        "intent": "create_task",
+        "text": "Assign Danny Welbeck"
+      },
+      {
+        "intent": "create_task",
+        "entities": [
+          {
+            "start": 17,
+            "end": 21,
+            "value": "epic",
+            "entity": "scrum_task"
+          },
+          {
+            "start": 46,
+            "end": 48,
+            "value": "story points",
+            "entity": "scrum_artifacts"
+          }
+        ],
+        "text": "Could you add an epic, estimate the task to 5 sp and assign Kyle Walker, please?"
+      },
+      {
+        "intent": "create_task",
+        "entities": [
+          {
+            "start": 17,
+            "end": 22,
+            "value": "story",
+            "entity": "scrum_task"
+          }
+        ],
+        "text": "Can you create a story for me?"
+      },
+      {
+        "intent": "create_task",
+        "entities": [
+          {
+            "start": 25,
+            "end": 29,
+            "value": "epic",
+            "entity": "scrum_task"
+          }
+        ],
+        "text": "Would you mind to add an epic to the dashboard?"
+      },
+      {
+        "intent": "create_task",
+        "entities": [
+          {
+            "start": 34,
+            "end": 46,
+            "value": "story points",
+            "entity": "scrum_artifacts"
+          }
+        ],
+        "text": "The estimation for this task is 8 story points"
+      },
+      {
+        "intent": "add_member",
+        "text": "I'd like to add a new member ."
+      },
+      {
+        "intent": "add_member",
+        "text": "Could you add David Beckham to the team?"
+      },
+      {
+        "intent": "add_member",
+        "text": "Team member who I want to add is Danny Rose"
+      },
+      {
+        "intent": "add_member",
+        "entities": [
+          {
+            "start": 16,
+            "end": 28,
+            "value": "scrum master",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "I want to add a Scrum Master Lucas"
+      },
+      {
+        "intent": "add_member",
+        "entities": [
+          {
+            "start": 49,
+            "end": 51,
+            "value": "product owner",
+            "entity": "scrum_roles"
+          },
+          {
+            "start": 71,
+            "end": 79,
+            "value": "frontend",
+            "entity": "skills"
+          },
+          {
+            "start": 84,
+            "end": 93,
+            "value": "databases",
+            "entity": "skills"
+          }
+        ],
+        "text": "Can you create a profile for Tom Heaton, he is a PO and his skills are frontend and databases"
+      },
+      {
+        "intent": "add_member",
+        "entities": [
+          {
+            "start": 8,
+            "end": 11,
+            "value": "dev",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "He is a dev"
+      },
+      {
+        "intent": "add_member",
+        "entities": [
+          {
+            "start": 9,
+            "end": 11,
+            "value": "scrum master",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "She is a SM"
+      },
+      {
+        "intent": "add_member",
+        "entities": [
+          {
+            "start": 9,
+            "end": 24,
+            "value": "web",
+            "entity": "skills"
+          }
+        ],
+        "text": "He knows web development"
+      },
+      {
+        "intent": "add_member",
+        "entities": [
+          {
+            "start": 10,
+            "end": 28,
+            "value": "mobile",
+            "entity": "skills"
+          }
+        ],
+        "text": "She knows mobile development"
+      },
+      {
+        "intent": "add_member",
+        "entities": [
+          {
+            "start": 14,
+            "end": 33,
+            "value": "desktop",
+            "entity": "skills"
+          }
+        ],
+        "text": "He is good at desktop development"
+      },
+      {
+        "intent": "add_member",
+        "entities": [
+          {
+            "start": 15,
+            "end": 27,
+            "value": "scrum master",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "I wanna make a scrum master account for Wayne Rooney ."
+      },
+      {
+        "intent": "add_member",
+        "text": "i want to add new person to a team"
+      },
+      {
+        "intent": "difference",
+        "entities": [
+          {
+            "start": 30,
+            "end": 32,
+            "value": "product owner",
+            "entity": "scrum_roles"
+          },
+          {
+            "start": 37,
+            "end": 49,
+            "value": "scrum master",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "What's the difference between PO and Scrum Master ?"
+      },
+      {
+        "intent": "difference",
+        "entities": [
+          {
+            "start": 23,
+            "end": 25,
+            "value": "product owner",
+            "entity": "scrum_roles"
+          },
+          {
+            "start": 41,
+            "end": 53,
+            "value": "scrum master",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "Can you tell me how is PO different than Scrum Master ?\""
+      },
+      {
+        "intent": "difference",
+        "entities": [
+          {
+            "start": 7,
+            "end": 27,
+            "value": "retrospective",
+            "entity": "scrum_events"
+          },
+          {
+            "start": 43,
+            "end": 56,
+            "value": "review",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "How is sprint retrospective different than sprint review ?"
+      },
+      {
+        "intent": "difference",
+        "entities": [
+          {
+            "start": 33,
+            "end": 46,
+            "value": "daily",
+            "entity": "scrum_events"
+          },
+          {
+            "start": 51,
+            "end": 66,
+            "value": "planning",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "What are the differences between daily standup and sprint planning ?"
+      },
+      {
+        "intent": "difference",
+        "entities": [
+          {
+            "start": 8,
+            "end": 10,
+            "value": "scrum master",
+            "entity": "scrum_roles"
+          },
+          {
+            "start": 15,
+            "end": 28,
+            "value": "product owner",
+            "entity": "scrum_roles"
+          }
+        ],
+        "text": "How are SM and Product Owner roles different?"
+      },
+      {
+        "intent": "difference",
+        "entities": [
+          {
+            "start": 35,
+            "end": 48,
+            "value": "review",
+            "entity": "scrum_events"
+          },
+          {
+            "start": 53,
+            "end": 68,
+            "value": "planning",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "I don't see any difference between sprint review and sprint planning meetings."
+      },
+      {
+        "intent": "difference",
+        "entities": [
+          {
+            "start": 36,
+            "end": 41,
+            "value": "daily",
+            "entity": "scrum_events"
+          },
+          {
+            "start": 46,
+            "end": 52,
+            "value": "review",
+            "entity": "scrum_events"
+          }
+        ],
+        "text": "Can you show me differences between daily and review meetings?"
+      }
+    ],
+    "regex_features": [],
+    "lookup_tables": [],
+    "entity_synonyms": [
+      {
+        "value": "board",
+        "synonyms": [
+          "scrum board"
+        ]
+      },
+      {
+        "value": "product owner",
+        "synonyms": [
+          "PO",
+          "po",
+          "Product Owner",
+          "prod owner",
+          "product ower",
+          "p o"
+        ]
+      },
+      {
+        "value": "scrum",
+        "synonyms": [
+          "SCRUM",
+          "Scrum"
+        ]
+      },
+      {
+        "value": "scrum master",
+        "synonyms": [
+          "Scrum Master",
+          "SM",
+          "scum master",
+          "sm",
+          "s m",
+          "scrum maser"
+        ]
+      },
+      {
+        "value": "planning",
+        "synonyms": [
+          "sprint planning"
+        ]
+      },
+      {
+        "value": "review",
+        "synonyms": [
+          "sprint review"
+        ]
+      },
+      {
+        "value": "retrospective",
+        "synonyms": [
+          "sprint retrospective",
+          "retro",
+          "sprint retro",
+          "retrospetive"
+        ]
+      },
+      {
+        "value": "daily",
+        "synonyms": [
+          "daily sprint",
+          "daily standup"
+        ]
+      },
+      {
+        "value": "dev",
+        "synonyms": [
+          "dev team",
+          "development team",
+          "developer"
+        ]
+      },
+      {
+        "value": "story points",
+        "synonyms": [
+          "sp",
+          "s p",
+          "story ponts"
+        ]
+      },
+      {
+        "value": "web",
+        "synonyms": [
+          "web development"
+        ]
+      },
+      {
+        "value": "mobile",
+        "synonyms": [
+          "mobile development"
+        ]
+      },
+      {
+        "value": "desktop",
+        "synonyms": [
+          "desktop development"
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,449 @@
+USER : Hi
+BOT : Hello! How can I help you?
+USER : I'm a little confused
+BOT : I'm an intelligent chatbot with knowledge about the methodology of running and managing SCRUM projects. I can answer your questions related to SCRUM, help you add some items to a virtual dashboard or new members to the team.
+USER : I don't know what scrum is
+BOT : SCRUM is a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value.
+BOT : Does that help you?
+USER : Yes
+BOT : Is there anything more you want to ask?
+USER : No, that's all. I'm not interested
+BOT : Happy to help :)
+USER : Bye
+BOT : bye
+
+
+USER : Hello my friend
+BOT : Hello! How can I help you?
+USER : I want to know who SM and PO are
+BOT : The Scrum Master is a servant-leader for the Scrum Team. SM is responsible for promoting and supporting Scrum as defined in the Scrum Guide
+BOT : The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+BOT : Is it clearer for you know
+USER : Yes it does!
+BOT : Is there anything more you want to ask?
+USER : My second question is: do you know what sprint planning is?
+BOT : At the Sprint Planning the work to be performed in the Sprint is planned. This plan is created by the collaborative work of the entire Scrum Team.
+BOT : Does that help you?
+USER : No it's not enough
+BOT : In that case I can navigate you to a section where you can find additional information
+BOT : Is there anything more you want to ask?
+USER : No I don't
+BOT : I'm glad that I could help :)
+USER : See you soon
+BOT : bye bye!
+
+USER: Hello my friend
+BOT: Hey! How can I help you?
+USER: I'd like to add a new item to the dashboard
+BOT: Ok, I will need some information to perform that operation. Specificaly at least task type, assignee and your estimation.
+USER: Create a task for me
+BOT: I'm sorry, I wasn't able to find anything about:  assignee  estimation  unit of measure 
+USER: What are story points?
+BOT: A story point is a metric used in agile project management and development to estimate the difficulty of implementing a given user story
+USER: Assign Gary Cahill and estimate 8 sp
+BOT: Superb! As far as I understood you want to add a task, give an estimation of: 8 sp and assign: Gary Cahill. Am I correct?
+USER: Yes, everything is ok
+BOT: Great! The new item has been added to the virtual scrum dashboard.
+BOT: Is there anything more you want to ask?
+USER: No, see you soon
+BOT: bye bye!
+
+USER: Hi
+BOT: Hello! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I haven't found following entities in your message:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Is there anything more you want to ask?
+USER: No it's not
+BOT: Happy to help :)
+USER: See you soon
+BOT: bye
+USER: Hi
+BOT: Hi! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I haven't found following entities in your message:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: I'm glad that I could help :)
+USER: See you soon
+BOT: Take care
+USER: Hi
+BOT: Hi! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I'm sorry, I wasn't able to find anything about:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Is there anything more you want to ask?
+USER: No it's not
+BOT: Happy to help :)
+USER: See you soon
+BOT: Have a nice day
+USER: Hi
+BOT: Hi! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I'm sorry, I wasn't able to find anything about:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: Happy to help :)
+USER: See you soon
+BOT: See you soon
+USER: Hi
+BOT: Hey there! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I'm sorry, I wasn't able to find anything about:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Is there anything more you want to ask?
+USER: No it's not
+BOT: I'm glad that I could help :)
+USER: See you soon
+BOT: See you soon
+USER: Hi
+BOT: Hey! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I'm sorry, I wasn't able to find anything about:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: Happy to help :)
+USER: See you soon
+BOT: See you soon
+USER: Hi
+BOT: Hey there! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: Please specify following entities in order to finish task creation:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Is there anything more you want to ask?
+USER: No it's not
+BOT: Happy to help :)
+USER: See you soon
+BOT: Goodbye
+USER: Hi
+BOT: Hey! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: Please specify following entities in order to finish task creation:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: Happy to help :)
+USER: See you soon
+BOT: bye bye!
+USER: Hi
+BOT: Hey! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: Please specify following entities in order to finish task creation:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: I'm glad that I could help :)
+USER: See you soon
+BOT: Take care
+USER: Hi
+BOT: Hey there! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I haven't found following entities in your message:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: I'm glad that I could help :)
+USER: See you soon
+BOT: bye bye!
+USER: Hi
+BOT: Hello! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I'm sorry, I wasn't able to find anything about:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: I'm glad that I could help :)
+USER: See you soon
+BOT: Take care
+USER: Hi
+BOT: Hi! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: Please specify following entities in order to finish task creation:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Is there anything more you want to ask?
+USER: No it's not
+BOT: Happy to help :)
+USER: See you soon
+BOT: bye
+USER: Hi
+BOT: Hello! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I haven't found following entities in your message:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: Happy to help :)
+USER: See you soon
+BOT: bye bye!
+USER: Hi
+BOT: Hi! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I haven't found following entities in your message:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Is there anything more you want to ask?
+USER: No it's not
+BOT: I'm glad that I could help :)
+USER: See you soon
+BOT: Take care
+USER: Hi
+BOT: Hello! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I haven't found following entities in your message:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: Happy to help :)
+USER: See you soon
+BOT: bye bye!
+USER: Hi
+BOT: Hello! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I haven't found following entities in your message:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Is there anything more you want to ask?
+USER: No it's not
+BOT: I'm glad that I could help :)
+USER: See you soon
+BOT: Goodbye
+USER: Hi
+BOT: Hello! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I haven't found following entities in your message:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: I'm glad that I could help :)
+USER: See you soon
+BOT: Goodbye
+USER: Hi
+BOT: Hey! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: Please specify following entities in order to finish task creation:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: Happy to help :)
+USER: See you soon
+BOT: See you soon
+USER: Hi
+BOT: Hi! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I haven't found following entities in your message:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: I'm glad that I could help :)
+USER: See you soon
+BOT: Take care
+USER: Hi
+BOT: Hello! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: I haven't found following entities in your message:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: I'm glad that I could help :)
+USER: See you soon
+BOT: Have a nice day
+USER: Hi
+BOT: Hi! How can I help you?
+USER: I'd like to add a member to my team
+BOT: Tell me name and surname of a person who you want to create an account for and his role in the scrum team. 
+USER: Can you help me somehow?
+BOT: Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional.
+USER: I want to add a new member Harry Kane
+BOT: Please specify following entities in order to finish task creation:  role in the team 
+USER: I don't know who is product owner
+BOT: The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team
+USER: He is a scrum master
+BOT: Cool! Let's summarize. You want to add a profile of Harry Kane who is a scrum master. Is it correct?
+USER: Yes, everything is ok
+BOT: Superb! The new member has been added to the team!
+BOT: Do you have any other questions?
+USER: No it's not
+BOT: I'm glad that I could help :)
+USER: See you soon
+BOT: Goodbye

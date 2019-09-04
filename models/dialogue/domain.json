@@ -1,0 +1,28 @@
+{
+  "states": [
+    "intent_difference",
+    "intent_goodbye",
+    "intent_inform",
+    "intent_greet",
+    "intent_mood_deny",
+    "intent_get_help",
+    "intent_mood_affirm",
+    "intent_create_task",
+    "prev_action_listen",
+    "prev_action_restart",
+    "prev_utter_greet",
+    "prev_utter_intro",
+    "prev_utter_inform_scrum",
+    "prev_utter_inform_retro",
+    "prev_utter_inform_planning",
+    "prev_utter_inform_sm",
+    "prev_utter_does_help",
+    "prev_utter_show_more",
+    "prev_utter_unclear",
+    "prev_utter_get_more_info",
+    "prev_utter_task_created",
+    "prev_utter_next",
+    "prev_utter_happy_to_help",
+    "prev_utter_goodbye"
+  ]
+}

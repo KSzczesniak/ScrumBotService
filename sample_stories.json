@@ -1,0 +1,85 @@
+{
+    "story1": [
+        "Hi",
+        "I wanna be a billionaire",
+        "How can you help me?",
+        "Well then I'd like to create a task",
+        "I really don`t like working",
+        "What are the options?",
+        "Epic is my choice",
+        "How should I estimate that stuff?",
+        "I am tired, do we really need to do this?",
+        "Ok, ok , let's say 8 sp",
+        "Can you tell me something more about this step?",
+        "Who can I choose?",
+        "No, let's pick someone else",
+        "I'm ok with this one"
+    ],
+    "story2": [
+        "Hi",
+        "I'm a little confused",
+        "How can you help me?",
+        "I don't know what scrum is",
+        "Yes",
+        "Who is SM",
+        "Yeah",
+        "Can you tell me what sprint planning and retro are",
+        "Sure",
+        "Yes, I want to know something abou Product Owner",
+        "No",
+        "No, that's all",
+        "Bye"
+    ],
+    "story3": [
+        "Hello my friend",
+        "I want to know who is scrum master",
+        "Yes it does!",
+        "My second question is: do you know what sprint planning is?",
+        "No it's not enough",
+        "No I don't",
+        "See you soon"
+    ],
+    "story4": [
+        "Hello my friend",
+        "I'd like to add a new item to the dashboard",
+        "Create a task for me",
+        "What are story points?",
+        "Assign Gary Cahill and estimate 8 sp",
+        "Yes, everything is ok",
+        "See you soon"
+    ],
+    "story5": [
+        "Hi",
+        "I'd like to add a member to my team",
+        "Can you help me somehow?",
+        "I want to add a new member Harry Kane",
+        "I don't know who is product owner",
+        "He is a scrum master",
+        "Yes, everything is ok",
+        "No it's not",
+        "See you soon"
+    ],
+    "story6": [
+        "Hi",
+        "I don't know what to do",
+        "No, I'm not interested",
+        "Bye"
+    ],
+    "story7": [
+        "Hi",
+        "I'm a little confused",
+        "I don't know what scrum is",
+        "Yes",
+        "No, that's all. I'm not interested",
+        "Bye"
+    ],
+    "story8": [
+        "Hello my friend",
+        "I want to know who SM and PO are",
+        "Yes it does!",
+        "My second question is: do you know what sprint planning is?",
+        "No it's not enough",
+        "No I don't",
+        "See you soon"
+    ]
+}

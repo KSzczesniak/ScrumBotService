@@ -1,0 +1,110 @@
+{
+    "utter_greet": [
+        "Hey! How can I help you?",
+        "Hi! How can I help you?",
+        "Hello! How can I help you?",
+        "Hey there! How can I help you?"
+    ],
+    "utter_goodbye": [
+        "bye",
+        "bye bye!",
+        "See you soon",
+        "Goodbye",
+        "Have a nice day",
+        "Take care"
+    ],
+    "utter_unclear": [
+        "I'm not sure how to help you",
+        "I'm not sure if I understood correctly, could you formulate your question differently?"
+    ],
+    "utter_does_help": [
+        "Does that help you?",
+        "Is it clearer for you know",
+        "Was that helpfull?"
+    ],
+    "utter_show_more": [
+        "Well then I can present you a section where you should find information you are looking for",
+        "In that case I can navigate you to a section where you can find additional information"
+    ],
+    "utter_next": [
+        "Do you have any other questions?",
+        "Is there anything more you want to ask?"
+    ],
+    "utter_happy_to_help": [
+        "Happy to help :)",
+        "I'm glad that I could help :)"
+    ],
+    "utter_get_help": [
+        "I'm an intelligent chatbot with knowledge about the methodology of running and managing SCRUM projects. I can answer your questions related to SCRUM, help you add some items to a virtual dashboard or new members to the team."
+    ],
+    "utter_get_help_scrum": [
+        "SCRUM is a framework within which people can address complex adaptive problems, while productively and creatively delivering products of the highest possible value."
+    ],
+    "utter_get_help_scrum_master": [
+        "The Scrum Master is a servant-leader for the Scrum Team. SM is responsible for promoting and supporting Scrum as defined in the Scrum Guide"
+    ],
+    "utter_get_help_product_owner": [
+        "The Product Owner is the sole person responsible for managing the Product Backlog. PO is responsible for maximizing the value of the product resulting from work of the Development Team"
+    ],
+    "utter_get_help_dev": [
+        "The Development Team consists of professionals who do the work of delivering a potentially releasable Increment of 'Done' product at the end of each Sprint."
+    ],
+    "utter_get_help_sprint": [
+        "The heart of Scrum is a Sprint, a time-box of one month or less during which a 'Done' Increment is created. Sprints consist of the Sprint Planning, Daily Scrums, the development work, the Sprint Review, and the Sprint Retrospective"
+    ],
+    "utter_get_help_planning": [
+        "At the Sprint Planning the work to be performed in the Sprint is planned. This plan is created by the collaborative work of the entire Scrum Team."
+    ],
+    "utter_get_help_daily": [
+        "The Daily Scrum is a 15-minute time-boxed event when the Development Team plans work for the next 24 hours"
+    ],
+    "utter_get_help_review": [
+        "A Sprint Review is held at the end of the Sprint to inspect the Increment and adapt the Product Backlog if needed."
+    ],
+    "utter_get_help_retrospective": [
+        "The Sprint Retrospective is an opportunity for the Scrum Team to inspect itself and create a plan for improvements to be enacted during the next Sprint."
+    ],
+    "utter_get_help_increment": [
+        "The Increment is the sum of all the Product Backlog items completed during a Sprint and the value of the increments of all previous Sprints. "
+    ],
+    "utter_get_help_story_points": [
+        "A story point is a metric used in agile project management and development to estimate the difficulty of implementing a given user story"
+    ],
+    "utter_create_task": [
+        "Ok, I will need some information to perform that operation. Specificaly at least task type, assignee and your estimation."
+    ],
+    "utter_task_created": [
+        "Great! The new item has been added to the virtual scrum dashboard."
+    ],
+    "utter_create_task_get_help": [
+        "Task types which you can use are: task, user story or epic. You should estimate in story points. Don't forget to specify the unit of measure. An assignee is a developer who will be responsible for doing the task."
+    ],
+    "utter_more_info": [
+        "I haven't found following entities in your message: ",
+        "Please specify following entities in order to finish task creation: ",
+        "I'm sorry, I wasn't able to find anything about: "
+    ],
+    "utter_create_task_confirm": [
+        "Superb! As far as I understood you want to add a {}, give an estimation of: {} sp and assign: {}. Am I correct?"
+    ],
+    "utter_add_member_get_help": [
+        "Account types which you can choose are: Scrum Master, Product Owner and Software Developer. You can also add some skills like: frontend, backend, desktop development, mobile development and web development but these are optional."
+    ],
+    "utter_add_member": [
+        "Tell me name and surname of a person who you want to create an account for and his role in the scrum team. "
+    ],
+    "utter_add_member_confirm": [
+        "Cool! Let's summarize. You want to add a profile of {} who is a {}. Is it correct?"
+    ],
+    "utter_add_member_with_skills_confirm": [
+        "Cool! Let's summarize. You want to add a profile of {} who is a {} and who can perform tasks related to: {}. Is it correct?"
+    ],
+    "utter_member_added": [
+        "Superb! The new member has been added to the team!"
+    ],
+    "utter_go_ahead": [
+        "Go ahead!",
+        "What is your question?",
+        "How can I help you?"
+    ]
+}

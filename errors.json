@@ -1,0 +1,20 @@
+{
+    "intent_errors": [
+        {
+            "text": "how are you doing?",
+            "intent": "greet",
+            "intent_prediction": {
+                "name": "get_help",
+                "confidence": 0.4984506170189742
+            }
+        },
+        {
+            "text": "Can you tell me how is PO different than Scrum Master?\"",
+            "intent": "difference",
+            "intent_prediction": {
+                "name": "get_help",
+                "confidence": 0.38327787161702154
+            }
+        }
+    ]
+}
